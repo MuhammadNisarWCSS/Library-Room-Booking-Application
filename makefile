@@ -1,5 +1,5 @@
 libraryRoomBooking: a1-global.o Student.o Room.o Date.o Reservation.o Library.o
-	g++ -o a1 a1-global.o Student.o Room.o Date.o Reservation.o Library.o
+	g++ -o libraryRoomBooking a1-global.o Student.o Room.o Date.o Reservation.o Library.o
 
 a1-global.o: a1-global.cc Library.h Date.h
 	g++ -c a1-global.cc

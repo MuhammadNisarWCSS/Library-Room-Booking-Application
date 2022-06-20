@@ -1,7 +1,10 @@
 
 Author : Muhammad Nisar 
 
+Allows students to book a certain room at a certain date, or to search for rooms that match certain criteria and check their availability.
+
 At the moment, this application is only supported on linux.
+
 
 
 Files : Date.h, Date.cc (Handles the Date objects by comparing dates)
