@@ -1,7 +1,7 @@
 
 Author : Muhammad Nisar 
 
-Allows students to book a certain room at a certain date, or to search for rooms that match certain criteria and check their availability.
+Allows students to book a certain room at a certain date, or to search for rooms that match certain criteria and check their availability. This was a university assignment, so there is no student interface.
 
 At the moment, this application is only supported on linux.
 
