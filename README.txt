@@ -3,7 +3,7 @@ Author : Muhammad Nisar
 
 A room booking application that allows students to book a certain room at a certain date, 
 or to search for rooms that match certain criteria (such as maximum capacity, computers, and whiteboards) and check their availability. 
-There is no student interface, instead a script is ran.
+There is no student interface. Instead, a script is ran.
 
 At the moment, this application is only supported on linux.
 
